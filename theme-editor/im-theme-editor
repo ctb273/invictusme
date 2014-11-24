@@ -269,8 +269,8 @@ font-family: 'Lato';
 text-transform: uppercase;
 line-height: 1;
 color: hsl(0, 0%, 100%);
-background: #525252;
-background: hsl(0, 0%, 24%);
+background: #972FFF;/*CB replaced #525252 with #972FFF BRANDCOLORKEY 11/24/14 after commenting out hsl value*/
+/* CB commented out 11/24/14 background: hsl(0, 0%, 24%);*/
 border: none;
 border-radius: 3px;
 cursor: pointer; /* Improves usability and consistency of cursor style between image-type 'input' and others */
@@ -391,7 +391,7 @@ clear: both;
 font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 /* OLD COLOR: background: #119AC9; CB commented out and added new color 10/31/14*/
-background: #348ffF; /*CB changed from #348FFF, from #F8365C, from #88034F, from #F44336, from #3949AB, from #3F51B5 on 11/10/14 BRANDCOLORKEY*/
+background: #972FFF; /*CB changed from #348FFF, from #F8365C, from #88034F, from #F44336, from #3949AB, from #3F51B5 on 11/10/14 BRANDCOLORKEY 11/24/14 CB changed from #348ffF to #972FFF*/
 /*CB edited out 10/27/14 background: hsl(0, 0%, 19%); */
 }
 
